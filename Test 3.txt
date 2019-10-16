@@ -1,7 +1,0 @@
-This is a test file.
-
-Test 1.
-Test 2 for 2nd time change.
-
-
-Test 3 for file name change.
